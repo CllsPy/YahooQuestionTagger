@@ -19,7 +19,7 @@ With the help of Mlflow we can tracking every experiment we can possibly make. I
 
 # Citation
 
-"""markdown
+```
 @misc{Carlos2025FlowQ,
   author = {Lima, Carlos},
   title = {FlowQ},
@@ -28,4 +28,5 @@ With the help of Mlflow we can tracking every experiment we can possibly make. I
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/CllsPy/FlowQ}},
 }
-"""
+```
+
