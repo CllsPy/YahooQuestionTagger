@@ -20,6 +20,15 @@ With the help of Mlflow we can tracking every experiment we can possibly make. I
 <img width="612" height="513" alt="image" src="https://github.com/user-attachments/assets/350aacdd-2a47-40bf-be54-41191f78aed7" />
 
 # NLP modeling
+I start with MutinominalNB, which is great for text classifical, but before deep dive into modeling. A went trought each step on NLP projects.
+
+- data cleaning
+- tokenização
+- lemmatization or stemming
+
+All those steps help us improve data quality, so it implies better result. At the end we got a classification report like this:
+
+<img width="511" height="359" alt="image" src="https://github.com/user-attachments/assets/9aeba9fc-52aa-4480-b254-008442c7a240" />
 
 # Citation
 
