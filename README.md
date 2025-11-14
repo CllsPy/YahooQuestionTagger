@@ -30,6 +30,8 @@ All those steps help us improve data quality, so it implies better result. At th
 
 <img width="511" height="359" alt="image" src="https://github.com/user-attachments/assets/9aeba9fc-52aa-4480-b254-008442c7a240" />
 
+To build the model I used scit-learning and for hyperparamenter otimization gridsearch. Didn't search for too long, since my focus was on enhace data quality and avoid tweeking models.
+
 # Citation
 
 ```
